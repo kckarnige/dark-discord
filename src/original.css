@@ -1,6 +1,5 @@
 @import "https://discord-modifications.github.io/dark-discord/src/switches.css";
 
-:root,
 .theme-dark {
    --accent: var(--info-positive-foreground) !important;
    --activity-card-background: var(--background-tertiary) !important;
