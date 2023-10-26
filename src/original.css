@@ -90,3 +90,8 @@
    background-color: var(--background-secondary) !important;
    box-shadow: var(--elevation-high) !important;
 }
+
+.theme-dark .container__10dc7,
+.theme-dark .header__60bef {
+   background-color: var(--background-primary);
+}
