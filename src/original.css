@@ -95,3 +95,6 @@
 .theme-dark .header__60bef {
    background-color: var(--background-primary);
 }
+.theme-dark [class*="autocomplete_"] {
+   background-color: var(--background-secondary);
+}
