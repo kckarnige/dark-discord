@@ -19,8 +19,8 @@
 
 ![Preview](https://i.imgur.com/G7sIRe5.png)
 ## Installation
-#### BetterDiscord
-- Visit [this link](https://github.com/kckarni)
+#### BetterDiscord / Vesktop / ArmCord
+- Visit [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/kckarnige/dark-discord/blob/main/DarkDiscord.theme.css)
 
 #### Web
 - Install **Stylus** for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
