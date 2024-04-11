@@ -1,11 +1,10 @@
 @-moz-document domain("discord.com") {
    /* ==UserStyle==
-    @name         Dark Discord
-    @description  An actual dark mode for discord.
-    @author       eternal
-    @namespace    github.com/localip/dark-discord
-    @version      1.0.0
-    @supportURL   https://discord.gg/HQ5N7Rcajc
+    @name         ReDark
+    @description  An actual dark mode for Discord.
+    @author       Created by eternal, Fork by KayoticCarnige
+    @namespace    github.com/kckarnige/dark-discord
+    @version      2.0.0
     ==/UserStyle== */
    @import url(https://kckarnige.github.io/dark-discord/src/source.css);
 }

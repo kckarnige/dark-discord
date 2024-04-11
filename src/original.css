@@ -50,10 +50,10 @@
    --toast-box-shadow: rgba(0, 0, 0, 0.1) !important;
    --toast-contents: var(--background-tertiary) !important;
    --toast-header: var(--background-tertiary) !important;
+   --home-background: var(--background-primary) !important;
 }
 
-.bd-modal-wrapper .bd-modal-body,
-.inset-SbsSFp {
+.bd-modal-wrapper .bd-modal-body {
    background-color: var(--background-primary) !important;
 }
 
@@ -68,7 +68,6 @@
 }
 
 .bd-modal-wrapper .header,
-.theme-dark .headerNormal-T_seeN,
 .css-12hk9yc-control,
 .css-1adxh11-control,
 .css-1emou8a-control {
@@ -91,12 +90,15 @@
    box-shadow: var(--elevation-high) !important;
 }
 
-[class*="chat_"]>[class*="header_"][class*="container_"],
-[class*="chat_"]>[class*="content_"][class*="container_"],
-[class*="chat_"]>[class*="content_"][class*="emptyPage_"],
-[class*="chat_"]>[class*="content_"]>[class*="chat_"][class*="container_"],
-[class*="chat_"]>[class*="content_"]>[class*="chat_"][class*="scrollerContainer_"] {
+.theme-dark [class*="chat_"]>[class*="header_"][class*="container_"],
+.theme-dark [class*="chat_"]>[class*="content_"][class*="container_"],
+.theme-dark [class*="chat_"]>[class*="content_"][class*="emptyPage_"],
+.theme-dark [class*="chat_"]>[class*="content_"]>[class*="chat_"][class*="container_"],
+.theme-dark [class*="chat_"]>[class*="content_"]>[class*="chat_"][class*="scrollerContainer_"] {
    background-color: var(--background-primary);
+}
+.theme-dark [class*="header_"]>[class*="upperContainer_"]>[class*="innerHeader_"]:after {
+   background: none;
 }
 .theme-dark [class*="autocomplete_"] {
    background-color: var(--background-secondary);
