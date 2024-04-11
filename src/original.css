@@ -93,6 +93,7 @@
 
 [class*="chat_"]>[class*="header_"][class*="container_"],
 [class*="chat_"]>[class*="content_"][class*="container_"],
+[class*="chat_"]>[class*="content_"][class*="emptyPage_"],
 [class*="chat_"]>[class*="content_"]>[class*="chat_"][class*="container_"],
 [class*="chat_"]>[class*="content_"]>[class*="chat_"][class*="scrollerContainer_"] {
    background-color: var(--background-primary);
